@@ -23,6 +23,9 @@
   
 
 
+-  websites are informational and navigational, while web apps are functional and interactive
+-   more complex level of interaction compared to typical websites,
+
 - every website is based on three fundamental 
   - HTML: structure
   - css : style 
